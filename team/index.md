@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 Come join us! If you're interested in working with us, please send an email along
-with a C.V. to joshua_francois@hms.harvard.edu.
+with a C.V. to joshua_francois at hms.harvard.edu.
 
 {% include section.html %}
 
