@@ -1,1 +1,1 @@
-Sitemap: https://jjfrancois.github.io/francoislabV2/sitemap.xml
+Sitemap: https://jjfrancois.github.io/francoislab/sitemap.xml
