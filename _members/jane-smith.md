@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Joshua François
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Boise State University
 aliases:
-  - J. Smith
-  - J Smith
+  - J. François
+  - J François
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
