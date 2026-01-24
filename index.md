@@ -1,9 +1,9 @@
 ---
 ---
 
-# jjfrancois's Website
+# François Lab Website
 
-An engaging 1-3 sentence description.
+We will be opening in Fall 2026!
 
 {% include section.html %}
 
