@@ -5,6 +5,6 @@
 
   # jjfrancois's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[jjfrancois.github.io/francoislabV2](https://jjfrancois.github.io/francoislabV2)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
