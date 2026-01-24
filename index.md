@@ -3,7 +3,7 @@
 
 # François Lab Website
 
-We will be opening in Fall 2026!
+We will be opening in Fall 2026 at Boise State University!
 
 {% include section.html %}
 
