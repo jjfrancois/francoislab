@@ -33,30 +33,37 @@
   orcid: 0000-0001-7367-205X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1126/sciadv.abf3882
+  title: The interplay between matrix deformation and the coordination of turning
+    events governs directed neutrophil migration in 3D matrices
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - "Joshua Fran\xE7ois"
+  - Adithan Kandasamy
+  - Yi-Ting Yeh
+  - Amy Schwartz
+  - Cindy Ayala
+  - Ruedi Meili
+  - Shu Chien
+  - Juan C. Lasheras
+  - "Juan C. del \xC1lamo"
+  publisher: Science Advances
+  date: '2021-07-16'
+  link: https://doi.org/gnmv37
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1083/jcb.201307106
+  title: Both contractile axial and lateral traction force dynamics drive amoeboid
+    cell motility
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Effie Bastounis
+  - Ruedi Meili
+  - "Bego\xF1a \xC1lvarez-Gonz\xE1lez"
+  - Joshua Francois
+  - "Juan C. del \xC1lamo"
+  - Richard A. Firtel
+  - Juan C. Lasheras
+  publisher: Journal of Cell Biology
+  date: '2014-03-17'
+  link: https://doi.org/f5vz34
   plugin: sources.py
   file: sources.yaml
