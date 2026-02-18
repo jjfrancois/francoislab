@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Lab Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
