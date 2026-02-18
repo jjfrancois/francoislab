@@ -67,3 +67,32 @@
   link: https://doi.org/f5vz34
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1073/pnas.1717489115
+  title: Three-dimensional forces exerted by leukocytes and vascular endothelial cells
+    dynamically facilitate diapedesis
+  authors:
+  - Yi-Ting Yeh
+  - Ricardo Serrano
+  - "Joshua Fran\xE7ois"
+  - Jeng-Jiann Chiu
+  - Yi-Shuan Julie Li
+  - "Juan C. del \xC1lamo"
+  - Shu Chien
+  - Juan C. Lasheras
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-12-18'
+  link: https://doi.org/gcswth
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/2040-8978/17/7/075403
+  title: Numerical model for the deformation of nucleated cells by optical stretchers
+  authors:
+  - Ihab Sraj
+  - Joshua Francois
+  - David W M Marr
+  - Charles D Eggleton
+  publisher: Journal of Optics
+  date: '2015-07-01'
+  link: https://doi.org/hbpqbf
+  plugin: sources.py
+  file: sources.yaml
