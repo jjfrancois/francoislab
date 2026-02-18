@@ -1,7 +1,7 @@
 ---
 ---
 
-# François Lab Website
+# Welcome to the François Lab!
 
 We will be opening in Fall 2026 at Boise State University!
 
