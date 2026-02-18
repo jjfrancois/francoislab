@@ -10,7 +10,7 @@ nav:
 
 ## Projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" %}
 
 {% include section.html %}
 
