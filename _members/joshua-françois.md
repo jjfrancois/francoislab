@@ -12,7 +12,7 @@ links:
 ---
 Joshua François is an incoming Assistant Professor in the Department of Mechanical and Biomedical Engineering at Boise State 
 University. After receiving his B.S. in Mechanical Engineering from the University of Maryland, Baltimore County, he completed his 
-Ph.D. in Bioengineering at the University of California, San Diego. While there, he used statistical analysis and three-dimensional 
+Ph.D. in Bioengineering at the University of California, San Diego. As a Ph.D. student, he used statistical analysis and three-dimensional 
 (3D) image processing tools to investigate how the density of 3D environments affects 3D white blood cell migration. Joshua then 
 completed his postdoctoral training in the Department of Systems Biology at Harvard Medical School, where his research focused on 
 the development of novel 3D assays, 3D image analysis techniques, and next-generation sequencing approaches to understand how 
