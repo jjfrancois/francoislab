@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: Lab opening
 image: images/photo.jpg
 author: john-doe
 ---
