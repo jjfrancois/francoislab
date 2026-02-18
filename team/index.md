@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Come join us! If you're interested in working with us, please send an email along
-with a C.V. to joshua_francois at hms.harvard.edu.
+We are excited to build a collaborative, supportive research group at Boise State University and welcomes motivated undergraduate and graduate students from all backgrounds who are interested in joining the lab. If you're interested in working with us, please send an email along
+with your C.V. to joshua_francois At hms.harvard.edu.
 
 {% include section.html %}
 
@@ -17,9 +17,7 @@ with a C.V. to joshua_francois at hms.harvard.edu.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {% include section.html %}
 
