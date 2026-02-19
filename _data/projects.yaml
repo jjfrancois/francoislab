@@ -1,10 +1,8 @@
 - title: Cancer Progression
   group: featured
-  description: As metastatic cancer cells migrate away from primary tumors, they must navigate through environments with complex mechanical properties and biochemical compositions. While these environments 
+  description: As metastatic cancer cells migrate away from primary tumors, they must navigate through environments  
+  with complex mechanical properties and biochemical compositions. While these environments 
 
 - title: Tumor Clearance
   group: featured
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
