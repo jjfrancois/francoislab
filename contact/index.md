@@ -11,13 +11,13 @@ nav:
 {%
   include button.html
   type="email"
-  text="email"
+  text="Email"
   link="joshua_francois@hms.harvard.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="phone"
+  text="Phone"
   link="+1-443-929-6047"
 %}
 {%
