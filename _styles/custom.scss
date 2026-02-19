@@ -11,3 +11,21 @@ html {
   display: none !important;
 }
 
+/* Hide heading anchor/permalink icons and links */
+h1 a[href^="#"],
+h2 a[href^="#"],
+h3 a[href^="#"],
+h4 a[href^="#"],
+h5 a[href^="#"],
+h6 a[href^="#"] {
+  text-decoration: none;
+  color: inherit;
+  pointer-events: none;     /* make them non-clickable */
+}
+
+/* In case the icon is in a special class */
+.heading-anchor,
+a.heading-anchor {
+  display: none !important;
+}
+
