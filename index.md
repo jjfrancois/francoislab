@@ -8,10 +8,12 @@ processing techniques to understand how the properties of cancer cell microenvir
 DNA-damaging therapies on cancer progression and tumor clearance. We will be opening Fall 2026 in the Department of
 Mechanical and Biomedical Engineering at Boise State University!
 
+{% include section.html %}
 
 {% capture text %}
 
 Interested in joining our lab? Send Joshua an email along with your C.V. to joshua_francois AT hms.harvard.edu.
+
 {%
   include button.html
   link="contact"
