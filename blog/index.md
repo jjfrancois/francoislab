@@ -4,7 +4,7 @@ nav:
   order: 4
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+## Blog
 
 {% include section.html %}
 
