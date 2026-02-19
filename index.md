@@ -1,7 +1,7 @@
 ---
 ---
 
-## Welcome to the François Lab!
+# Welcome to the François Lab!
 
 Our lab combines principles from classical mechanics with multi-omics analysis and 3D image 
 processing techniques to understand how the properties of cancer cell microenvironments influence the effectiveness of 
