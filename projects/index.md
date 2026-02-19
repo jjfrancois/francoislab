@@ -2,7 +2,6 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
 ---
 
 {% include section.html %}
