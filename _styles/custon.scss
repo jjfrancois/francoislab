@@ -1,0 +1,18 @@
+---
+---
+
+/* Example: increase global text size */
+html {
+  font-size: 18px;   /* default is usually ~16px; adjust to taste */
+}
+
+/* Optional: tweak headings */
+h1, .h1 { font-size: 2.3rem; }
+h2, .h2 { font-size: 1.9rem; }
+h3, .h3 { font-size: 1.6rem; }
+
+/* Optional: body text only (main content area) */
+.page-content {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
