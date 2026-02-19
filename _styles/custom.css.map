@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AAAA;AACA;EACE","sourcesContent":["/* Example: increase global text size */\nhtml {\n  font-size: 18px;   /* default is usually ~16px; adjust to taste */\n}\n"],"file":"custom.css"}
