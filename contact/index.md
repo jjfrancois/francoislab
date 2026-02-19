@@ -11,13 +11,13 @@ nav:
 {%
   include button.html
   type="email"
-  text="joshua_francois@hms.harvard.edu"
+  text="email"
   link="joshua_francois@hms.harvard.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(443) 929-6047"
+  text="phone"
   link="+1-443-929-6047"
 %}
 {%
