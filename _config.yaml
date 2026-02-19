@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: François Lab
 subtitle: 
-description: An engaging 1-3 sentence description.
+description: The François Lab investigates how tumor environments influence the effects of DNA damage on cancer progression and tumor clearance.
 header: images/TumorMicroenvironment.jpg
 footer: images/Footer.jpg
 proofer: false
