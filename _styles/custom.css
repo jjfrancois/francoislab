@@ -3,4 +3,9 @@ html {
   font-size: 18px; /* default is usually ~16px; adjust to taste */
 }
 
+/* Hide project card images globally */
+.project-card img {
+  display: none !important;
+}
+
 /*# sourceMappingURL=custom.css.map */
