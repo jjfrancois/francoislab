@@ -5,7 +5,8 @@
 
 Our lab combines principles from classical mechanics with multi-omics analysis and 3D image 
 processing techniques to understand how the properties of cancer cell microenvironments influence the effectiveness of 
-DNA-damaging therapies on cancer progression and tumor clearance. We will be opening in Fall 2026 at Boise State University!
+DNA-damaging therapies on cancer progression and tumor clearance. We will be opening Fall 2026 in the Department of
+Mechanical and Biomedical Engineering at Boise State University!
 
 
 {% capture text %}
@@ -14,8 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="contact"
+  text="Contact us"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -25,9 +26,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/BoiseSkyline.jpg"
   link="team"
-  title="Our Team"
+  title="We're recruiting!"
   text=text
 %}
 
