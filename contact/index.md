@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 nav:
-  order: 3
+  order: 5
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
