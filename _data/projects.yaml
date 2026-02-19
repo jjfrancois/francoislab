@@ -5,5 +5,6 @@
 
 - title: Tumor Clearance
   group: featured
+  image: images/ImmuneCellHomingDNADamgeCancerCell.png
   description: Cancer cell-immune cell interactions are common during cancer progression. Specifically, cancer cells subjected to DNA-damaging therapies have been shown to secrete biochemical molecules in their local environments that induce immune cell functions that can either suppress or enhance tumor growth. However, the quantitative relationships between DNA damage in cancer cells, the properties of their local environments, and immune cell recruitment to tumors remain poorly understood. We aim to understand how both DNA damage in cancer cells and the mechano-biochemical properties of tumor microenvironments affect the mechanics of immune cell recruitment to tumors. 
 
