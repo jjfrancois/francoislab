@@ -11,5 +11,3 @@ nav:
 
 {% include list.html component="card" data="projects" %}
 
-{% include section.html %}
-
