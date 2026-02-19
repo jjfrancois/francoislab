@@ -4,7 +4,7 @@ nav:
   order: 3
 ---
 
-## {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
 
 
 
