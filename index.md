@@ -12,7 +12,7 @@ Mechanical and Biomedical Engineering at Boise State University!
 
 {% capture text %}
 
-Interested in joining our lab? Send Joshua an email along with your C.V. to joshua_francois AT hms.harvard.edu.
+Interested in joining our lab? Send us an email along with your C.V. to joshua_francois AT hms.harvard.edu.
 
 {%
   include button.html
