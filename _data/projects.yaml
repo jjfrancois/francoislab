@@ -1,12 +1,6 @@
 - title: Cancer Progression
   group: featured
-  description: As metastatic cancer cells migrate away from primary tumors, they must navigate through 
-  environments with complex mechanical properties and biochemical compositions. While these environments 
-  are known to affect cellular fates, little is known about how DNA-damaging therapies influence the mechanics 
-  of cancer cell migration through these environments. We aim to investigate both the interplay between 
-  DNA damage in cancer cells and the mechano-biochemical properties of their local environments, 
-  as well as the effects of these factors on cancer cell migration. 
-
+  description: As metastatic cancer cells migrate away from primary tumors, they must navigate through environments with complex mechanical properties and biochemical compositions. While these environments 
   repo: greenelab/lab-website-template
   tags:
     - resource
