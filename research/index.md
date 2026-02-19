@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# Publications
+## Publications
 
 {% include search-box.html %}
 
