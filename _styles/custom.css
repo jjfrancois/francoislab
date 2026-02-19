@@ -3,11 +3,6 @@ html {
   font-size: 18px; /* default is usually ~16px; adjust to taste */
 }
 
-/* Hide project card images globally */
-.project-card img {
-  display: none !important;
-}
-
 /* Hide heading anchor/permalink icons and links */
 h1 a[href^="#"],
 h2 a[href^="#"],
