@@ -9,5 +9,7 @@ nav:
 
 ## Projects
 
+{% include section.html %}
+
 {% include list.html component="card" data="projects" %}
 
