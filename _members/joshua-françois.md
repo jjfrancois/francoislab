@@ -4,8 +4,7 @@ image: images/JF_headshot.jpg
 role: principal-investigator
 affiliation: Boise State University
 aliases:
-  - J. François
-  - J François
+  - Joshua François
 links:
   home-page: https://jjfrancois.github.io/francoislab/
   orcid: 0000-0001-8713-9213
