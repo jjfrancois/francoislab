@@ -12,7 +12,7 @@ nav:
   include button.html
   type="email"
   text="Email"
-  link="joshuafrancois@hms.boisestate.edu"
+  link="joshuafrancois@boisestate.edu"
 %}
 {%
   include button.html
