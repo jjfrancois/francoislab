@@ -9,7 +9,7 @@ links:
   home-page: https://jjfrancois.github.io/francoislab/
   orcid: 0000-0001-8713-9213
 ---
-Joshua François is an incoming Assistant Professor in the Department of Mechanical and Biomedical Engineering at Boise State 
+Joshua François is an  Assistant Professor in the Department of Mechanical and Biomedical Engineering at Boise State 
 University. After receiving his B.S. in Mechanical Engineering from the University of Maryland, Baltimore County, he completed his 
 Ph.D. in Bioengineering at the University of California, San Diego. As a Ph.D. student, he used statistical analysis and three-dimensional 
 (3D) image processing tools to investigate how the density of 3D environments affects 3D white blood cell migration. Joshua then 
