@@ -2,7 +2,7 @@
 name: Joshua François, Ph.D. (he/him)
 image: images/JF_headshot.jpg
 role: principal-investigator
-affiliation: Boise State University
+#affiliation: Boise State University
 aliases:
   - Joshua François
 links:
