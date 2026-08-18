@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Maddie Jackson
 image: images/photo.jpg
 role: ms
 #group: alum
