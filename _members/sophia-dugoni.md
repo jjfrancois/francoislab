@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Sophia Dugoni
 image: images/photo.jpg
 role: Undergraduate Research Assistant
 #group: alum
