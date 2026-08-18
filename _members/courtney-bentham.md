@@ -1,7 +1,7 @@
 ---
 name: Courtney Bentham, M.S.
 image: images/photo.jpg
-role: Ph.D. Graduate Assistant
+role: phd
 #group: alum
 #links:
 #  github: john-doe
