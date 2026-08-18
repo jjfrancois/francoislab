@@ -1,7 +1,7 @@
 ---
 name: Sophia Dugoni
 image: images/photo.jpg
-role: Undergraduate Research Assistant
+role: undergrad
 #group: alum
 #links:
 #  github: john-doe
