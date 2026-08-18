@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Courtney Bentham
 image: images/photo.jpg
 role: Ph.D. Graduate Assistant
 #group: alum
