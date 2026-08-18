@@ -1,7 +1,7 @@
 ---
 name: Andrew Overland
 image: images/photo.jpg
-role: Undergraduate Research Assistant
+role: undergraduate-research-assistant
 #group: alum
 #links:
 #  github: john-doe
