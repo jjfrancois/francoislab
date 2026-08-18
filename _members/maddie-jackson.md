@@ -1,7 +1,7 @@
 ---
 name: John Doe
 image: images/photo.jpg
-role: M.S. Graduate Research Assistant
+role: ms
 #group: alum
 #links:
 #  github: john-doe
