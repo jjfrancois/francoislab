@@ -13,26 +13,6 @@
   orcid: 0000-0001-7367-205X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1126/sciadv.adp2229
-  title: Temporal regulation of gene expression through integration of p53 dynamics
-    and modifications
-  authors:
-  - Dan Lu
-  - Marjan Faizi
-  - Bryon Drown
-  - Alina Simerzin
-  - "Joshua Fran\xE7ois"
-  - Gary Bradshaw
-  - Neil Kelleher
-  - Ashwini Jambhekar
-  - Jeremy Gunawardena
-  - Galit Lahav
-  publisher: Science Advances
-  date: '2024-10-25'
-  link: https://doi.org/hbpp8n
-  orcid: 0000-0001-7367-205X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1126/sciadv.abf3882
   title: The interplay between matrix deformation and the coordination of turning
     events governs directed neutrophil migration in 3D matrices
