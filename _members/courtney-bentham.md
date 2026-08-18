@@ -1,5 +1,5 @@
 ---
-name: Courtney Bentham
+name: Courtney Bentham, M.S.
 image: images/photo.jpg
 role: Ph.D. Graduate Assistant
 #group: alum
