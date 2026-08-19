@@ -11,6 +11,6 @@ with your C.V. and a brief statement of research interests to JoshuaFrancois@boi
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" filter="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
