@@ -1,6 +1,6 @@
 ---
 name: Courtney Bentham, M.S.
-image: images/photo.jpg
+image: images/CB_headshot.jpeg
 role: phd
 #group: alum
 #links:
