@@ -1,6 +1,6 @@
 ---
 name: Sophia Dugoni
-image: images/SD_headshot.pdf
+image: images/SD_headshot.jpg
 role: undergrad
 #group: alum
 #links:
