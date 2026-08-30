@@ -1,6 +1,6 @@
 ---
 name: Maddie Jackson
-image: images/photo.jpg
+image: images/MJ_headshot.jpg
 role: ms
 #group: alum
 #links:
