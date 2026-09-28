@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/isbi61048.2026.11515569
+  title: Boundary-Aware Instance Segmentation in Microscopy Imaging
+  authors:
+  - Thomas Mendelson
+  - Joshua Francois
+  - Galit Lahav
+  - Tammy Riklin Raviv
+  publisher: 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)
+  date: '2026-04-08'
+  link: https://doi.org/hcjg26
+  orcid: 0000-0001-7367-205X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fbioe.2026.1735308
+  title: Quantifying single-cell responses to irradiation in 3D
+  authors:
+  - "Joshua Fran\xE7ois"
+  - Alina Simerzin
+  - Ashwini Jambhekar
+  - Galit Lahav
+  publisher: Frontiers in Bioengineering and Biotechnology
+  date: '2026-03-25'
+  link: https://doi.org/hcjg27
+  orcid: 0000-0001-7367-205X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.jmb.2025.169436
   title: 'Decoding the Central Dogma: Quantitative Insights into Transcription and
     Translation Dynamics in the p53-Mediated DNA Damage Response'
@@ -49,22 +75,7 @@
   publisher: Science Advances
   date: '2021-07-16'
   link: https://doi.org/gnmv37
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1083/jcb.201307106
-  title: Both contractile axial and lateral traction force dynamics drive amoeboid
-    cell motility
-  authors:
-  - Effie Bastounis
-  - Ruedi Meili
-  - "Bego\xF1a \xC1lvarez-Gonz\xE1lez"
-  - Joshua Francois
-  - "Juan C. del \xC1lamo"
-  - Richard A. Firtel
-  - Juan C. Lasheras
-  publisher: Journal of Cell Biology
-  date: '2014-03-17'
-  link: https://doi.org/f5vz34
+  orcid: 0000-0001-7367-205X
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1717489115
@@ -82,6 +93,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2017-12-18'
   link: https://doi.org/gcswth
+  orcid: 0000-0001-7367-205X
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/2040-8978/17/7/075403
@@ -94,5 +106,23 @@
   publisher: Journal of Optics
   date: '2015-07-01'
   link: https://doi.org/hbpqbf
+  orcid: 0000-0001-7367-205X
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1083/jcb.201307106
+  title: Both contractile axial and lateral traction force dynamics drive amoeboid
+    cell motility
+  authors:
+  - Effie Bastounis
+  - Ruedi Meili
+  - "Bego\xF1a \xC1lvarez-Gonz\xE1lez"
+  - Joshua Francois
+  - "Juan C. del \xC1lamo"
+  - Richard A. Firtel
+  - Juan C. Lasheras
+  publisher: Journal of Cell Biology
+  date: '2014-03-17'
+  link: https://doi.org/f5vz34
+  orcid: 0000-0001-7367-205X
   plugin: sources.py
   file: sources.yaml
