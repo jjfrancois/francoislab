@@ -1,6 +1,6 @@
 ---
 name: Alena Gonzalez
-image: images/photo.jpg
+image: images/AG_headshot.JPG
 role: undergrad
 #group: alum
 #links:
