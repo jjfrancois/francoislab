@@ -1,6 +1,6 @@
 ---
 name: Sofia Cardenas Caraballo
-image: images/SCC_headshot2.jpeg
+image: images/SCC_headshot.jpg
 role: undergrad
 #group: alum
 #links:
