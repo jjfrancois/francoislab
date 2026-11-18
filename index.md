@@ -5,8 +5,7 @@
 
 Our lab combines principles from classical mechanics with multi-omics analysis and 3D image 
 processing techniques to understand how the properties of cancer cell microenvironments influence the effectiveness of 
-DNA-damaging therapies in slowing cancer progression and enhancing tumor clearance. We will be opening Fall 2026 in the Department of
-Mechanical and Biomedical Engineering at Boise State University!
+DNA-damaging therapies in slowing cancer progression and enhancing tumor clearance.
 
 {% include section.html %}
 
